@@ -6,7 +6,7 @@
 *.egg-info
 *.sql.gz
 .cache
-.receitasbr
+.evento
 .idea
 .pydevproject
 .idea/workspace.xml

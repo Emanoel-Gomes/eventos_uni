@@ -1,6 +1,6 @@
 /djagoapp/static/
 /djagoapp/media/
-/djagoapp/project/local_settings.py
+/djagoapp/evento/local_settings.py
 gunicorn-error-log
 __localcode
 /data/
